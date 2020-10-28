@@ -1,6 +1,8 @@
 # Data-Analytics-Portfolio-Python
 My Data Analytics Portfolio
 
+Note: Plotly interactive graphs do not seem to work on github but you can check them out via the google colab link in each project file.
+
 
 #### Project # 1 : Stocks Data Analysis and Visualization in Python 
 #### Project # 2 : Asset Allocation and Statistical Data Analysis
