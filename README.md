@@ -1,4 +1,4 @@
-# Data-Analytics-Portfolio-Python
+# Data-Analytics-Portfolio-In-Python
 My Data Analytics Portfolio
 
 **Note** :- Plotly interactive graphs aren't showing up on github but you can check them out via the google colab link in each project file.
