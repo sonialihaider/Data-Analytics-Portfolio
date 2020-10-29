@@ -5,7 +5,7 @@ My Data Analytics Portfolio
 
 
 #### Project # 1 : Stocks Data Analysis and Visualization in Python 
-#### Project # 2 : Portfolio Asset Allocation and Statistical Data Analysis
+#### Project # 2 : Portfolio Asset Allocation and Statistical Data Analysis In Python
 #### Project # 3 : Capital Asset Pricing Model (CAPM)
 #### Project # 4 : Predicting Stocks Future Prices using Machine and Deep Learning
 #### Project # 5 : Performing Bank Market Segmentation using Unsupervised Machine Learning Techniques
